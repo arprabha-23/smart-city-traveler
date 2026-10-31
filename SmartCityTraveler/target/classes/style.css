@@ -1,0 +1,25 @@
+.root,.page{-fx-font-family:"Segoe UI",Arial,sans-serif;-fx-background-color:#f6f2ff}
+.header{ -fx-background-color:white;-fx-border-color:#e4dcf7;-fx-border-width:0 0 1 0 }
+.page-title{ -fx-font-size:27px;-fx-font-weight:bold;-fx-text-fill:#4d267f }
+.subtitle,.hint{ -fx-text-fill:#777080;-fx-font-size:13px }
+.card{ -fx-background-color:white;-fx-background-radius:14px;-fx-border-color:#e5dcf4;-fx-border-radius:14px;-fx-effect:dropshadow(gaussian,rgba(70,40,100,.12),14,.15,0,4) }
+.section-title{ -fx-font-size:23px;-fx-font-weight:bold;-fx-text-fill:#3e2265 }
+.hero-title{ -fx-font-size:32px;-fx-font-weight:bold;-fx-text-fill:#4d267f }
+.hero-text{ -fx-font-size:16px;-fx-text-fill:#6e6678 }
+.field-label{ -fx-font-weight:bold;-fx-text-fill:#4a4052 }
+.text-field,.password-field,.combo-box,.date-picker,.spinner{ -fx-background-color:#fbfaff;-fx-border-color:#d8ccec;-fx-border-radius:8px;-fx-background-radius:8px }
+.text-field:focused,.password-field:focused{ -fx-border-color:#7b4bb2;-fx-border-width:2px }
+.primary-button{ -fx-background-color:#7041a3;-fx-text-fill:white;-fx-font-weight:bold;-fx-background-radius:8px;-fx-padding:8px 20px;-fx-cursor:hand }
+.primary-button:hover{ -fx-background-color:#5f338e }
+.secondary-button{ -fx-background-color:white;-fx-text-fill:#633a8e;-fx-font-weight:bold;-fx-border-color:#cbb9e5;-fx-border-radius:8px;-fx-background-radius:8px;-fx-padding:7px 18px;-fx-cursor:hand }
+.secondary-button:hover{ -fx-background-color:#f1eafd }
+.nav-bar{ -fx-background-color:white;-fx-border-color:#e4dcf7;-fx-border-width:1 0 0 0 }
+.mini-card{ -fx-background-color:white;-fx-background-radius:12px;-fx-border-color:#e1d6f1;-fx-border-radius:12px;-fx-font-size:16px;-fx-font-weight:bold;-fx-text-fill:#4d267f }
+.result-card{ -fx-background-color:white;-fx-background-radius:12px;-fx-border-color:#e2d8f0;-fx-border-radius:12px }
+.result-card:hover{ -fx-background-color:#fbf9ff;-fx-border-color:#bda4da }
+.result-title{ -fx-font-size:17px;-fx-font-weight:bold;-fx-text-fill:#4d267f }
+.selected-label,.amount-label,.total-label{ -fx-font-size:16px;-fx-font-weight:bold;-fx-text-fill:#4d267f }
+.success-title{ -fx-font-size:27px;-fx-font-weight:bold;-fx-text-fill:#4c8a57 }
+.reference{ -fx-font-size:19px;-fx-font-weight:bold;-fx-text-fill:#7041a3 }
+.confirmation-details{ -fx-font-size:15px;-fx-line-spacing:7px;-fx-text-fill:#504759 }
+.clean-scroll{ -fx-background-color:transparent;-fx-border-color:transparent }
